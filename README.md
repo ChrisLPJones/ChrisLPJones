@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Chris 👋
+I'm a cybersecurity and full-stack developer passionate about building secure and useful applications.
 
-<!--
-**ChrisLPJones/ChrisLPJones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Skills
+- C#, Python, JavaScript, Node.js, React, SQL, AWS
+- Cybersecurity, Networking, Penetration Testing
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- [ChefClaude.com](https://github.com/ChrisLPJones/ChefClaude) – Ingredient-to-recipe generator
+- [FileVault](https://github.com/ChrisLPJones/FileVault) – Secure file storage with C# backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislpjones&show_icons=true&theme=tokyonight)
