@@ -9,5 +9,3 @@ I'm a cybersecurity and full-stack developer passionate about building secure an
 - [ChefClaude.com](https://github.com/ChrisLPJones/ChefClaude) – Ingredient-to-recipe generator
 - [FileVault](https://github.com/ChrisLPJones/FileVault) – Secure file storage with C# backend
 
-## 📊 GitHub Stats
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislpjones&show_icons=true&theme=tokyonight)
