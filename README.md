@@ -1,5 +1,4 @@
-# Hi, I'm Chris 
-I'm a cybersecurity and full-stack developer passionate about building secure and useful applications.
+# Cybersecurity and full-stack developer passionate about building secure and useful applications.
 
 ##  Skills
 - C#, Python, JavaScript, Node.js, React, SQL, AWS
