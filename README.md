@@ -1,67 +1,56 @@
-# Chris Jones | Penetration Tester & Security-Focused Developer
+# Chris Jones | Security-Focused Developer
 
-Cybersecurity professional specializing in offensive security and secure application development. I combine hands-on penetration testing expertise with full-stack development skills to build tools that solve real security challenges.
+Career-changer transitioning from twenty years in professional kitchens into technology, with ten years of hands-on cybersecurity practice as a serious ongoing discipline. I like understanding how systems break, then building things that hold up better.
 
-## About Me
-
-I'm passionate about breaking things to understand how they work—and then building them back better. My work spans vulnerability research, exploit development, and creating secure applications that prioritize both functionality and defense-in-depth principles.
-
-Currently active in CTF competitions and penetration testing challenges, with a focus on web application security, reverse engineering, and infrastructure exploitation.
+Currently completing Hack The Box's Certified Penetration Testing Specialist (CPTS), with OSCP planned to follow. Active on Hack The Box and in CTFs, with a home lab running Proxmox, Active Directory, and Windows/Linux VMs built specifically for practising attack and defence.
 
 ## Technical Skills
 
-**Security & Penetration Testing**
-- Web Application Security Testing (SQLi, XSS, XSLT Injection, LFI/RFI, Authentication Bypass)
-- Infrastructure Penetration Testing & Network Security
-- Exploit Development & Proof-of-Concept Creation
-- Reverse Engineering & Binary Analysis
-- Password Cracking & Hash Analysis (Hashcat, John the Ripper)
+**Security & Offensive**
+- Web application testing: SQL injection, XSS, XSLT injection, LFI/RFI, authentication bypass, IDOR
+- Active Directory attacks: enumeration, Kerberos abuse, credential reuse, privilege escalation, lateral movement
+- Password cracking & hash analysis (Hashcat, John the Ripper)
+- Applied cryptography with .NET's `System.Security.Cryptography` (AES-256, PBKDF2)
+
+**Tools**
+Burp Suite, Nmap, Metasploit, Wireshark, Nuclei, ffuf, dirbuster, nxc, ldapsearch, sqlmap, tmux, nvim
 
 **Development**
-- **Languages**: C#, Python, JavaScript/Node.js, PHP, PowerShell, Bash
-- **Frameworks**: React, .NET Core, Express.js, Electron
-- **Databases**: PostgreSQL, SQL Server, SQLite
-- **Cloud & Infrastructure**: AWS (EC2, S3, Lambda), Docker, Linux System Administration
-- **Security Tools**: Burp Suite, Nuclei, Metasploit, Nmap, Wireshark
+- **Languages:** C#, JavaScript/Node.js, Python, PowerShell, Bash, T-SQL
+- **Frameworks:** .NET 8 (ASP.NET Core Minimal APIs), .NET Framework 4.8.1, React (Vite), Express
+- **Databases:** SQL Server, PostgreSQL, SQLite
+- **Cloud & Infrastructure:** AWS (Lambda, API Gateway, S3, CloudFront, Route 53), Docker & Docker Compose, Proxmox, Linux administration
 
 ## Featured Projects
 
-###  [Conversor Exploit](https://github.com/ChrisLPJones/conversor-exploit)
-C# exploit for HackTheBox machine demonstrating XSLT injection leading to RCE via `exslt:document` abuse. Features automated payload generation and session management.
+### [Conversor Exploit](https://github.com/ChrisLPJones/conversor-exploit)
+C# exploit for a retired Hack The Box machine, demonstrating XSLT injection to RCE via `exslt:document` abuse. Automated payload generation and session management.
+**Tech:** C#, XSLT, reverse shell techniques
 
-**Tech Stack**: C#, XSLT, XML, Reverse Shell Techniques
+### [ChefClaude](https://github.com/ChrisLPJones/ChefClaude) — [live at chefclaude.com](https://www.chefclaude.com)
+Live web app that generates recipes from user-supplied ingredients using the Anthropic Claude API. Serverless architecture on AWS.
+**Tech:** React (Vite), Node.js/Express on AWS Lambda, API Gateway, S3, CloudFront, Route 53
 
-###  [ChefClaude.com](https://github.com/ChrisLPJones/ChefClaude)
-AI-powered recipe generator that transforms available ingredients into creative meal ideas using Claude AI API. Built with focus on clean UX and API integration best practices.
+### [FileVault](https://github.com/ChrisLPJones/FileVault) (in progress)
+Full-stack secure file-sharing web application. User authentication, encrypted file storage on disk, SQL Server metadata tracking, dedicated xUnit test suite. Database containerised via Docker Compose.
+**Tech:** ASP.NET Core (.NET 8 Minimal APIs), React, SCSS, SQL Server, raw T-SQL, Docker Compose, xUnit
 
-**Tech Stack**: React, Node.js, Anthropic API
+### [CipherChat](https://github.com/ChrisLPJones/CipherChat)
+Console-based multi-user chat where all messages are encrypted client-side with AES-256 before transmission — the server relays only ciphertext it cannot read. Key derivation via PBKDF2 (SHA-256) with random salt, implemented on top of `System.Security.Cryptography`.
+**Tech:** C# / .NET 6, TCP client/server
 
-###  [FileVault](https://github.com/ChrisLPJones/FileVault)
-Secure file storage application with encrypted backend, implementing zero-trust architecture and secure authentication patterns.
+## Certifications
 
-**Tech Stack**: C#, React, Electron, AES Encryption
+- **Hack The Box CPTS** (Certified Penetration Testing Specialist) — in progress, ~50%
+- **OSCP** (Offensive Security Certified Professional) — planned
+- **Baseline security clearance** — granted 2026, sponsored by Defence Force Recruiting
+- **C# Mastercourse** — Tim Corey (IAmTimCorey), completed 2025
+- **Bachelor of Creative Technology** — JMC Academy, 2024
 
-###  [CrackDB](https://github.com/ChrisLPJones/CrackDB)
-High-performance bulk wordlist importer for PostgreSQL, optimized for processing hundreds of gigabytes of password datasets. Built for large-scale password cracking operations.
+## Get in Touch
 
-**Tech Stack**: C#, PostgreSQL, Bulk Insert Optimization
+Open to conversations about junior security engineering roles, junior developer roles, and applied security work.
 
-## Certifications & Achievements
-
-- Active HackTheBox participant with focus on web application and infrastructure challenges
-- CTF competitor with experience in various security domains
-- Continuous learner in offensive security techniques and exploit development
-
-## Currently Exploring
-
-- Advanced exploitation techniques for modern web applications
-- Cloud security and AWS penetration testing
-- Automated vulnerability discovery with custom tooling
-- GPU-accelerated password cracking infrastructure
-
-## Get In Touch
 ---
 
-*"Security is not a product, but a process." – Bruce Schneier*
-
-💡 Open to collaboration on security research, exploit development, and building secure applications.
+*"Security is not a product, but a process." — Bruce Schneier*
