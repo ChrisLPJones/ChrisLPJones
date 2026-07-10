@@ -23,10 +23,6 @@ Burp Suite, Nmap, Metasploit, Wireshark, Nuclei, ffuf, dirbuster, nxc, ldapsearc
 
 ## Featured Projects
 
-### [Conversor Exploit](https://github.com/ChrisLPJones/conversor-exploit)
-C# exploit for a retired Hack The Box machine, demonstrating XSLT injection to RCE via `exslt:document` abuse. Automated payload generation and session management.
-**Tech:** C#, XSLT, reverse shell techniques
-
 ### [ChefClaude](https://github.com/ChrisLPJones/ChefClaude) — [live at chefclaude.com](https://www.chefclaude.com)
 Live web app that generates recipes from user-supplied ingredients using the Anthropic Claude API. Serverless architecture on AWS.
 **Tech:** React (Vite), Node.js/Express on AWS Lambda, API Gateway, S3, CloudFront, Route 53
