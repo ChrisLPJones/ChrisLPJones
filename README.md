@@ -45,6 +45,7 @@ Console-based multi-user chat where all messages are encrypted client-side with 
 
 ## Get in Touch
 Email: christianlpjones@outlook.com
+
 Linkedin: linkedin.com/in/christianlpjones
 
 Open to conversations about junior security engineering roles, junior developer roles, and applied security work.
