@@ -1,4 +1,4 @@
-# Chris Jones | Security-Focused Developer
+# Christian Jones | Application Security Engineer / Security-focused Developer
 
 Career-changer transitioning from twenty years in professional kitchens into technology, with ten years of hands-on cybersecurity practice as a serious ongoing discipline. I like understanding how systems break, then building things that hold up better.
 
