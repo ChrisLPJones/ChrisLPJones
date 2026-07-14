@@ -44,6 +44,8 @@ Console-based multi-user chat where all messages are encrypted client-side with 
 - **Bachelor of Creative Technology** — JMC Academy, 2024
 
 ## Get in Touch
+Email: christianlpjones@outlook.com
+Linkedin: linkedin.com/in/christianlpjones
 
 Open to conversations about junior security engineering roles, junior developer roles, and applied security work.
 
