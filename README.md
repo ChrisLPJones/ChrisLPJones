@@ -1,6 +1,6 @@
 # Christian Jones | Application Security Engineer / Security-focused Developer
 
-Career-changer transitioning from twenty years in professional kitchens into technology, with ten years of hands-on cybersecurity practice as a serious ongoing discipline. I like understanding how systems break, then building things that hold up better.
+Career-changer transitioning from twenty years in professional kitchens into technology, with hands-on offensive security practice (HackTheBox, CTFs) and secure-tooling development. I like understanding how systems break, then building things that hold up better.
 
 Currently completing Hack The Box's Certified Penetration Testing Specialist (CPTS), with OSCP planned to follow. Active on Hack The Box and in CTFs, with a home lab running Proxmox, Active Directory, and Windows/Linux VMs built specifically for practising attack and defence.
 
