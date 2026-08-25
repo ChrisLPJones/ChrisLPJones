@@ -1,4 +1,4 @@
-# Christian Jones | Application Security Engineer / Security-focused Developer
+# Christian Jones | Aspiring Penetration Tester | Security-focused Developer
 
 Career-changer transitioning from twenty years in professional kitchens into technology, with hands-on offensive security practice (HackTheBox, CTFs) and secure-tooling development. I like understanding how systems break, then building things that hold up better.
 
